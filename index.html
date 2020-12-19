@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Umělá inteligence</title>
+	<link rel="stylesheet" type="text/css" href="styl.css">
+	<meta charset="utf-8">
+</head>
+<body>
+	<main id="telo">
+		<div id="data" style="overflow: scroll;">
+			
+		</div>
+		<div id="ovladani">
+			<form>
+				<input type="text" id="pole">
+				<button onclick="pridej()" id="tlacitko">Odeslat</button>
+			</form>
+		</div>
+	</main>
+	<script type="text/javascript" src="databaze.js"></script>
+	<script type="text/javascript" src="script.js"></script>
+	<script type="text/javascript" src="komunikace.js"></script>
+	<img src="settings.png" width="32" id="nastaveni" onclick="otevri_nastaveni()">
+</body>
+</html>

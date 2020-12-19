@@ -1,0 +1,26 @@
+button, main, p
+{
+	width: 100%;
+}
+
+input
+{
+	width: calc(100% - 17px);
+}
+
+main
+{
+	height: 100%;
+}
+
+#data
+{
+	height: calc(100vh - 77px);
+}
+
+#nastaveni
+{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
