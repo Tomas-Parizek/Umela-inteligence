@@ -1,12 +1,12 @@
-v(a, b)						- Kontroluje, zda pole b obsahuje prvek a
-naZacatku(a, b)				- Kontroluje, zda je na zacatku stringu b string a
-naKonci(a, b)				- Kontroluje, zda je na konci stringu b string a
-obsahuje(a, b)				- Kontroluje, zda string b obsahuje string a
-naZacatkuZ(a, b)			- Kontroluje, zda je podstring na začátku a v poli b
-naKonciZ(a, b)				- Konroluje, zda je podstring na konci a v poli b
-obsahujeZ(a, b)				- Kontroluje, zda je nějaký podstring a v poli b
-nahodne(a, b)				- Generuje náhodné číslo od a do b
-vyber(a)					- Vybírá jeden prvek z pole a, prozatím náhodně
-odstanZacatek(string, delka)- Vrací string z odstraněným začátkem o určené délce
-multiSplit(text, separator)	- Rozdělí string do pole podstringů pomocí pole separátorů
-formatVstupu(text, format)	- Kontroluje, zda je věta v určitém formátu, vrací pole mezistringů, prozatím ve vývoji
+v(a, b)							- Kontroluje, zda pole b obsahuje prvek a
+naZacatku(a, b)					- Kontroluje, zda je na zacatku stringu b string a
+naKonci(a, b)					- Kontroluje, zda je na konci stringu b string a
+obsahuje(a, b)					- Kontroluje, zda string b obsahuje string a
+naZacatkuZ(a, b)				- Kontroluje, zda je podstring na začátku a v poli b
+naKonciZ(a, b)					- Konroluje, zda je podstring na konci a v poli b
+obsahujeZ(a, b)					- Kontroluje, zda je nějaký podstring a v poli b
+nahodne(a, b)					- Generuje náhodné číslo od a do b
+vyber(a)						- Vybírá jeden prvek z pole a, prozatím náhodně
+odstanZacatek(string, delka)	- Vrací string z odstraněným začátkem o určené délce
+multiSplit(text, separator)		- Rozdělí string do pole podstringů pomocí pole separátorů
+formatVstupu(text, format)		- Kontroluje, zda je věta v určitém formátu, vrací pole mezistringů, prozatím ve vývoji
